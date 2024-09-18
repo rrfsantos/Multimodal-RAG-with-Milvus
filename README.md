@@ -1,1 +1,3 @@
-# Multimodal-RAG-with-Milvus
+# Multimodal RAG with Milvus
+
+This tutorial showcases the multimodal RAG powered by Milvus, Visualized BGE model, and GPT-4o. With this system, users are able to upload an image and edit text instructions, which are processed by BGE's composed retrieval model to search for candidate images. GPT-4o then acts as a reranker, selecting the most suitable image and providing the rationale behind the choice. This powerful combination enables a seamless and intuitive image search experience, leveraging Milvus for efficient retrieval, BGE model for precise image processing and matching, and GPT-4o for advanced reranking.
